@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "277227857425",
+    "firebase_url": "https://notice-board-d99ac.firebaseio.com",
+    "project_id": "notice-board-d99ac",
+    "storage_bucket": "notice-board-d99ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277227857425:android:74c5dde084e2efce",
+        "android_client_info": {
+          "package_name": "com.nbkr.varshadhoni.noticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277227857425-kr5sluvjpc1mk5hokkka2s26purtil8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbkr.varshadhoni.noticeboard",
+            "certificate_hash": "3f930c731d39a62f0bc26041835980d466b8f2db"
+          }
+        },
+        {
+          "client_id": "277227857425-jh0sj15ducpa9lb4gf27s4q6bhlopte6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SmQrSBBbyEV2T133z3_Di4uubVW9vTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277227857425-jh0sj15ducpa9lb4gf27s4q6bhlopte6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277227857425:android:4e449871b24add9e",
+        "android_client_info": {
+          "package_name": "com.example.varshadhoni.searchbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277227857425-clk7qk445173pcpa62jp9214g8pd6he7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varshadhoni.searchbooks",
+            "certificate_hash": "3f930c731d39a62f0bc26041835980d466b8f2db"
+          }
+        },
+        {
+          "client_id": "277227857425-jh0sj15ducpa9lb4gf27s4q6bhlopte6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SmQrSBBbyEV2T133z3_Di4uubVW9vTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277227857425-jh0sj15ducpa9lb4gf27s4q6bhlopte6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
